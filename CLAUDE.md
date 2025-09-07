@@ -371,7 +371,7 @@ When developing any n8n workflow, ensure:
 ## Korean Language Support
 
 When user requests are in Korean:
-1. Reference `n8n-workflow-creator.md` for Korean workflow guide
+1. Reference `make-workflow-instruction/n8n-workflow-creator.md` for Korean workflow guide
 2. Follow the 2-phase process:
    - Phase 1: Requirements gathering and consulting
    - Phase 2: Workflow blueprint generation with MCP validation
